@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdarg.h> /*for varyadic functions*/
 #include <stdlib.h> /*for malloc and NULL*/
@@ -39,4 +39,4 @@ int print_unsigned(va_list u);
 /*prints a string in reverse */
 int print_reverse(va_list r);
 
-#endif /* HOLBERTON_H */
+#endif /* MAIN_H */
