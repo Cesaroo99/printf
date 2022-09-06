@@ -4,7 +4,7 @@
 .SH NAME
 	_printf \- format and print data
 .SH SYNOPSIS
-	#include "holberton.h"
+	#include "main.h"
 .br
 	_printf [FORMAT] ARGUMENT...
 .br
@@ -30,4 +30,4 @@
 .SH BUGS
 	no knon bugs.
 .SH AUTHOR
-	written by salome Grisales and natalia vera
+	written by Memoli Nomo cesar

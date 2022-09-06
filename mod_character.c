@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * mod_character_s - search for match and execute for the associate function
  * @next: the character to match

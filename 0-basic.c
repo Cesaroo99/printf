@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * print_string - prints a string
  * @s: the variadic argument brought from the printf function
